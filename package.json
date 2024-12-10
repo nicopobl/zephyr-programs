@@ -17,10 +17,8 @@
     "@types/node": "^20.14.0",
     "dotenv": "^16.4.5",
     "express": "^4.21.2",
-    "js-yaml": "^4.1.0",
     "mercury-sdk": "0.2.6",
-    "swagger-jsdoc": "^6.2.8",
-    "swagger-ui-express": "^5.0.1"
+    "swagger-ui-react": "^5.18.2"
   },
   "devDependencies": {
     "@types/jest": "^29.5.12",
