@@ -27,6 +27,7 @@
     "javascript-time-ago": "^2.5.9",
     "mercury-sdk": "^1.0.0",
     "next": "latest",
+    "next-swagger-doc": "^0.4.1",
     "react": "latest",
     "react-dom": "latest",
     "react-ga": "^3.3.1",
@@ -35,7 +36,8 @@
     "recharts": "^2.10.4",
     "slick-carousel": "^1.8.1",
     "soroswap-router-sdk": "^1.2.6",
-    "soroswap-ui": "^0.0.8"
+    "soroswap-ui": "^0.0.8",
+    "swagger-ui-react": "^5.18.2"
   },
   "devDependencies": {
     "@types/node": "latest",

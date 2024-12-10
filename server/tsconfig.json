@@ -15,8 +15,7 @@
     "jsx": "preserve",
     "jsxImportSource": "@emotion/react",
     "incremental": true,
-    "baseUrl": "src",
-    "typeRoots": ["node_modules/@types", "src/types"]
+    "baseUrl": "src"
 
   },
 
